@@ -53,7 +53,7 @@ const MediaUploader = ({
 
   return (
     <CldUploadWidget
-      uploadPreset="imaginify"
+      uploadPreset="luminexa"
       options={{
         multiple: false,
         resourceType: "image",
