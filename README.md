@@ -34,7 +34,7 @@
 
 Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa offers state-of-the-art image processing capabilities, designed to make your photos shine. Whether you're looking to restore old images, remove unwanted objects, or transform your pictures with AI-powered magic, Luminexa has you covered. This platform is built with a focus on security, ease of use, and a seamless experience across all devices
 
-### <p style="text-align:right; font-size:30px">[🔝](#table)</p>
+### <h3 align="right">[🔝](#table)</h3>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -47,7 +47,7 @@ Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa off
 * [![Stripe][Stripe]][Stripe-url]
 * [![Shadcn][Shadcn]][Shadcn-url]
 
-### <p style="text-align:right; font-size:30px">[🔝](#table)</p>
+### <h3 align="right">[🔝](#table)</h3>
 
 ## <a name="features">🔋 Features</a>
 
@@ -82,7 +82,7 @@ Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa off
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/92a08fe0-8d1a-4986-9c31-cf440f79bac6" alt="Image Restoration" width="650px" height="300px" />
+    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/92a08fe0-8d1a-4986-9c31-cf440f79bac6" alt="Image Restoration" width="600px" height="325px" />
   <br />
 </div>
 <br />
@@ -91,7 +91,7 @@ Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa off
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/2a2fc2e3-d09f-409d-87ae-ff0a9e5ef90d" alt="Image Recoloring" width="650px" height="300px" />
+    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/2a2fc2e3-d09f-409d-87ae-ff0a9e5ef90d" alt="Image Recoloring" width="600px" height="325px" />
   <br />
 </div>
 <br />
@@ -100,7 +100,7 @@ Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa off
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/35933034-ddda-4901-8d82-8b087f1688d1" alt="Image Generative Fill" width="650px" height="300px" />
+    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/35933034-ddda-4901-8d82-8b087f1688d1" alt="Image Generative Fill" width="600px" height="325px" />
   <br />
 </div>
 <br />
@@ -109,7 +109,7 @@ Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa off
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/4ce34a28-fc1e-4520-aec9-c85f4ac6ce76" alt="Object Removal" width="650px" height="300px" />
+    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/4ce34a28-fc1e-4520-aec9-c85f4ac6ce76" alt="Object Removal" width="600px" height="325px" />
   <br />
 </div>
 <br />
@@ -118,7 +118,7 @@ Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa off
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/63366295-6aeb-4c45-ba2b-fb3057c80fe7" alt="Background Removal" width="650px" height="300px" />
+    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/63366295-6aeb-4c45-ba2b-fb3057c80fe7" alt="Background Removal" width="600px" height="325px" />
   <br />
 </div>
 <br />
@@ -127,7 +127,7 @@ Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa off
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/75e38887-ebb0-4f67-abce-d3b05c3d6ae5" alt="Download Transformed Images" width="650px" height="300px" />
+    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/75e38887-ebb0-4f67-abce-d3b05c3d6ae5" alt="Download Transformed Images" width="600px" height="325px" />
   <br />
 </div>
 <br />
@@ -136,7 +136,7 @@ Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa off
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/a5d942fc-acc1-4aaa-a119-9c79163ff031" alt="Transformed Image Details" width="650px" height="300px" />
+    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/a5d942fc-acc1-4aaa-a119-9c79163ff031" alt="Transformed Image Details" width="600px" height="325px" />
   <br />
 </div>
 <br />
@@ -145,7 +145,7 @@ Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa off
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/40b44b91-6458-44d9-903e-661c34a4c709" alt="Transformation Management" width="650px" height="300px" />
+    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/40b44b91-6458-44d9-903e-661c34a4c709" alt="Transformation Management" width="600px" height="325px" />
   <br />
 </div>
 <br />
@@ -154,7 +154,7 @@ Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa off
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/a4cd2806-fae3-467e-a953-8f97b7b80bc4" alt="Credits System" width="650px" height="300px" />
+    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/a4cd2806-fae3-467e-a953-8f97b7b80bc4" alt="Credits System" width="650px" height="200px" />
   <br />
 </div>
 <br />
@@ -163,7 +163,7 @@ Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa off
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/73f8df6e-f0bb-41af-907e-bc35fbe98a16" alt="Profile Page" width="650px" height="300px" />
+    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/73f8df6e-f0bb-41af-907e-bc35fbe98a16" alt="Profile Page" width="600px" height="325px" />
   <br />
 </div>
 <br />
@@ -172,7 +172,7 @@ Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa off
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/994e085d-df82-45d1-ae1c-1c619def94fa" alt="Credits Purchase" width="650px" height="300px" />
+    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/994e085d-df82-45d1-ae1c-1c619def94fa" alt="Credits Purchase" width="600px" height="325px" />
   <br />
 </div>
 <br />
@@ -193,7 +193,7 @@ Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa off
 
 ***Dive into Luminexa and transform your images like never before!***
 
-### <p style="text-align:right; font-size:30px">[🔝](#table)</p>
+### <h3 align="right">[🔝](#table)</h3>
 
 ## <a name="local-setup">🤸 Local Setup</a>
 
@@ -262,12 +262,14 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the website.
 
-### <p style="text-align:right; font-size:30px">[🔝](#table)</p>
+### <h3 align="right">[🔝](#table)</h3>
 
 ## <a name="ack">🌐 Acknowledgements</a>
 
 - Special thanks to the creators of Next.js, TypeScript, MongoDB, Clerk, Cloudinary, Stripe, Shadcn, and Tailwind CSS for providing the powerful tools that made this project possible.
 - Inspiration and design elements were drawn from various sources in the web development community, contributing to the modern and dynamic aesthetic of Luminexa.
+
+### <h3 align="right">[🔝](#table)</h3>
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
