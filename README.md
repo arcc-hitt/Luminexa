@@ -18,7 +18,7 @@
 
    <div align="center">
      <a href="https://luminexa.vercel.app/" target="_blank">View Live Demo</a>
-    </div>
+   </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
