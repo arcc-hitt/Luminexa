@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/Luminexa/assets/118602888/e7a68c40-a0d8-4457-9c52-40dd24c1a53f" alt="Project Banner">
+    <img src="https://github.com/user-attachments/assets/680e01ff-8e4c-4b95-a532-6dd56839390b" alt="Project Banner">
   <br />
 
   <div>
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   </div>
 
-  <h2 align="center">Luminexa - AI Image Processing SaaS Platform</h2>
+  <h2 align="center">Luminexa - AI Image Editing Platform</h2>
 
    <div align="center">
      <a href="https://luminexa.vercel.app/" target="_blank">View Live Demo</a>
@@ -32,7 +32,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Welcome to Luminexa - your go-to AI Image Processing SaaS platform! Luminexa offers state-of-the-art image processing capabilities, designed to make your photos shine. Whether you're looking to restore old images, remove unwanted objects, or transform your pictures with AI-powered magic, Luminexa has you covered. This platform is built with a focus on security, ease of use, and a seamless experience across all devices
+Welcome to Luminexa - your go-to AI Image Editing platform! Luminexa offers state-of-the-art image processing capabilities, designed to make your photos shine. Whether you're looking to restore old images, remove unwanted objects, or transform your pictures with AI-powered magic, Luminexa has you covered. This platform is built with a focus on security, ease of use, and a seamless experience across all devices
 
 ### <h3 align="right">[🔝](#table)</h3>
 
